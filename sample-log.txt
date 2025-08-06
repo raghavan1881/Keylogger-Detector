@@ -1,0 +1,3 @@
+2025-08-06 10:32:11,123 - === Keylogger Detection Started ===
+2025-08-06 10:32:11,456 - [!] Suspicious process: {'pid': 1234, 'name': 'KeyLogger.exe', 'cmdline': ['KeyLogger.exe']}
+2025-08-06 10:32:11,789 - === Scan Completed ===
