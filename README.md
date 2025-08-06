@@ -1,3 +1,6 @@
+⚠️ Disclaimer
+This tool is for educational and ethical use only. Do not scan systems you do not own or have permission to monitor.
+
 🛡️ Keylogger Detection Tool
 
 Detect suspicious keylogging behavior on Windows by analyzing process names and command-line arguments.
